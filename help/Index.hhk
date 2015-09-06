@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Links">
+		<param name="Name" value="Link: Display Icon">
+		<param name="Local" value="publish\Articles\links\DefaultIcon.html">
+		<param name="Name" value="Link: Open Folder , Open File">
+		<param name="Local" value="publish\Articles\links\fog0000000020.html">
+		<param name="Name" value="Using Links to related information">
+		<param name="Local" value="publish\Articles\links\UsingPatterns.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="read">
+		<param name="Name" value="TFMREG Overview">
+		<param name="Local" value="publish\Articles\Alpha\fog0000000007.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Contact Details">
+		<param name="Name" value="Contact Details">
+		<param name="Local" value="publish\Articles\contact\fog0000000011.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Registration Details">
+		<param name="Name" value="Registration">
+		<param name="Local" value="publish\Articles\contact\fog0000000012.html">
+		</OBJECT>
+</UL>
+</BODY></HTML>

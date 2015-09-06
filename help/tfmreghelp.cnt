@@ -1,0 +1,24 @@
+;This help file was created with HelpScribble 7.1.0
+;Registered to: Toflidium Software
+
+:BASE tfmreghelp.hlp
+:TITLE TFMReg Help
+1 TFMReg Help
+2 Welcome to TFMReg Help=Scribble10
+2 Main Features=Scribble20
+2 Working with the registry.=Scribble60
+2 Working with Favorites=Scribble40
+2 Menu Options=Scribble45
+2 Key Icons=Scribble160
+1 Links
+2 Using Links to Navigate the Registry.=Scribble30
+2 Other context sensitive features.=Scribble50
+2 Link: Show File Association=Scribble100
+2 Link: Show Class ID=Scribble110
+2 Link: Open Folder - Open File=Scribble120
+2 Link: Show HKCU / HKLM=Scribble130
+2 Link: Show ProgID - Show Version Independent ProgID=Scribble140
+2 Link: Display Icon=Scribble150
+1 Registration
+2 Registration.=Scribble15
+2 Contact Details=Scribble17
