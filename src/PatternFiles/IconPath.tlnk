@@ -1,0 +1,6 @@
+[INFO]
+DESCRIPTION=Display Icon
+PATTERNTYPE=PART
+MAINPATTERN={\^PARENT^\DefaultIcon\}{(Default)=^IconPath^}
+[PARENT=*]
+{INTERNAL}=DisplayIcon;:IconPath

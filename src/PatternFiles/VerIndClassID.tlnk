@@ -1,0 +1,7 @@
+[INFO]
+DESCRIPTION=Show Version Independent ProgID
+FULLEXPAND=TRUE
+PATTERNTYPE=PART
+MAINPATTERN={\^Parent^\VersionIndependentProgID\}{(Default)=^ClassDescription^}
+[Parent=*]
+{DISPLAY}=HKEY_CLASSES_ROOT\:ClassDescription\

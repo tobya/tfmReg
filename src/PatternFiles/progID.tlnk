@@ -1,0 +1,7 @@
+[INFO]
+DESCRIPTION=Show ProgID
+FULLEXPAND=TRUE
+PATTERNTYPE=PART
+MAINPATTERN={\^Parent^\ProgID\}{(Default)=^ClassDescription^}
+[Parent=*]
+{DISPLAY}=HKEY_CLASSES_ROOT\:ClassDescription\

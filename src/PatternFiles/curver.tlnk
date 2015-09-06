@@ -1,0 +1,7 @@
+[INFO]
+DESCRIPTION=Show Current Version
+FULLEXPAND=TRUE
+PATTERNTYPE=PART
+MAINPATTERN={\^Parent^\CurVer\}{(Default)=^Verdescription^}
+[Parent=*]
+{DISPLAY}=HKEY_CLASSES_ROOT\:Verdescription\

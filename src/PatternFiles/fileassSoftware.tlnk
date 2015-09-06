@@ -1,0 +1,6 @@
+[INFO]
+DESCRIPTION=Show File Association
+FULLEXPAND=TRUE
+MAINPATTERN={HKEY_LOCAL_MACHINE\SOFTWARE\Classes\.^ext^\}{(Default)=^filedescription^}
+[ext=*]
+{DISPLAY}=HKEY_CLASSES_ROOT\:filedescription\
